@@ -4,3 +4,5 @@ This controller inserted between mother board and CPU to control PWM in accordan
 
 [MPLAB Snap Info](https://www.avrfreaks.net/forum/mplab-snap?page=all)
 
+[Project on EasyEDA](https://easyeda.com/efti-nile/yet-another-fan-controller)
+
